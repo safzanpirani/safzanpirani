@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**safzanpirani/safzanpirani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+maximalist generalist building ml systems that work. focused on practical llm applications. llm-maxxing as a lifestyle choice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## currently
+- ml engineer
+- architecting production-ready ai solutions
+- working on making large models actually accessible
+
+## tech
+- python | tensorflow | pytorch
+- js/ts | react 
+- go (for when things need to be FAST)
+- vector dbs & embeddings
+
+## key projects
+- [local-rag](link) - retrieval-augmented generation system
+- [groqLive-release](link) - low-latency voice transcription/response pipeline
+- [image-comparator](link) - performance-focused image processing tools on a static webpage
+
+## publications & talks
+coming soon™
+
+## connect
+- [safzan.tech](link)
+- [@cheatyyyy](link)
+- [linkedin](link)
+
+open to collaborating on interesting ml projects, especially if you're into pushing the boundaries of what's possible with llms
