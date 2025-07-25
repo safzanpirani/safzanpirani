@@ -13,7 +13,7 @@ maximalist generalist building ml systems that work. focused on practical llm ap
 - [image-comparator](https://github.com/safzanpirani/image-comparator) - performance-focused image processing tools on a static webpage, client-side javascript
 
 ## blog
-coming soon™
+my latest blog post: [AI stands for artificial illiteracy](https://safzan.tech/notes/artificial-illiteracy)
 
 ## connect
 - [my portfolio](https://safzan.tech)
