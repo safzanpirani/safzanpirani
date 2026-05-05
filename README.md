@@ -1,23 +1,23 @@
+maximalist generalist working constantly on replacing myself with ai/llms/the whole shebang, this is my life now, llm-maxxing and agent-maxxing, i love CLIs and TUIs.
 
-
-maximalist generalist building ml systems that work. focused on practical llm applications. llm-maxxing as a lifestyle choice.
+shipping small, opinionated tools — mostly around ai agents and cli ergonomics.
 
 ## currently
-- ml engineer
-- architecting production-ready ai solutions
-- working on making large models actually accessible
+- working on agent + cli ergonomics across pi, codex, claude code, cursor agent
+- messing around with comfyui on the side
 
-## key projects
-- [local-rag](https://github.com/safzanpirani/local-rag) - retrieval-augmented generation system
-- [groqLive-release](https://github.com/safzanpirani/groqLive-release/) - low-latency voice transcription/response pipeline
-- [image-comparator](https://github.com/safzanpirani/image-comparator) - performance-focused image processing tools on a static webpage, client-side javascript
+## projects worth a look
+- [flux-kontext-diff-merge](https://github.com/safzanpirani/flux-kontext-diff-merge) — comfyui node that merges only the changed regions from ai image edits back into the original. preserves quality everywhere the model didn't actually need to touch
+- [pitop](https://github.com/safzanpirani/pitop) — `top(1)` for pi coding agent sessions; fork of cctop adapted for pi's session format
+- [cursor.nvim](https://github.com/safzanpirani/cursor.nvim) — small neovim plugin
+- [local-rag](https://github.com/safzanpirani/local-rag) — retrieval-augmented generation that runs on your laptop (college project)
 
-## blog
-my latest blog post: [AI stands for artificial illiteracy](https://safzan.tech/notes/artificial-illiteracy)
+## writing
+[safzan.tech/notes](https://safzan.tech/notes) — recent: [ai stands for artificial illiteracy](https://safzan.tech/notes/artificial-illiteracy)
 
-## connect
-- [my portfolio](https://safzan.tech)
+## elsewhere
+- [portfolio](https://safzan.tech)
 - [twitter/x](https://x.com/cheatyyyy)
 - [linkedin](https://www.linkedin.com/in/safzanpirani/)
 
-open to collaborating on interesting ml projects, especially if you're into pushing the boundaries of what's possible with llms
+open to chatting about agents, weird tools, or anything half-finished that looks like it might actually work
