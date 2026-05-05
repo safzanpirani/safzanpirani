@@ -20,4 +20,4 @@ shipping small, opinionated tools — mostly around ai agents and cli ergonomics
 - [twitter/x](https://x.com/cheatyyyy)
 - [linkedin](https://www.linkedin.com/in/safzanpirani/)
 
-open to chatting about agents, weird tools, or anything half-finished that looks like it might actually work
+open to chatting about agents and weird tools and funky cool llm behaviour and personality, mainly on safety, alignment faking, jailbreaking and more
