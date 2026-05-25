@@ -1,6 +1,6 @@
 maximalist generalist working constantly on replacing myself with ai/llms/the whole shebang, this is my life now, llm-maxxing and agent-maxxing, i love CLIs and TUIs.
 
-shipping small, opinionated tools — mostly around ai agents and cli ergonomics.
+shipping small, opinionated tools; mostly around ai agents and cli ergonomics.
 
 ## currently
 - working on agent + cli ergonomics across pi, codex, claude code, cursor agent
