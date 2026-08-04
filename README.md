@@ -15,10 +15,10 @@ shipping small, opinionated tools; mostly around ai agents and cli ergonomics.
 - [pitop](https://github.com/safzanpirani/pitop) — `top(1)` for pi coding agent sessions; fork of cctop adapted for pi's session format
 
 ## writing
-[safzan.tech/notes](https://safzan.tech/notes) — recent: [ai stands for artificial illiteracy](https://safzan.tech/notes/artificial-illiteracy)
+[safzan.tech/notes](https://safzan.dev/notes) — recent: [ai stands for artificial illiteracy](https://safzan.dev/notes/artificial-illiteracy)
 
 ## elsewhere
-- [portfolio](https://safzan.tech)
+- [portfolio](https://safzan.dev)
 - [twitter/x](https://x.com/cheatyyyy)
 - [linkedin](https://www.linkedin.com/in/safzanpirani/)
 
