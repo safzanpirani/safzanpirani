@@ -8,14 +8,14 @@ shipping small, opinionated tools; mostly around ai agents and cli ergonomics.
 - messing around with comfyui on the side
 
 ## projects worth a look
-- [fleet](https://github.com/safzanpirani/fleet) — drive your whole machine fleet over SSH without quoting pain. one command to exec, spawn background jobs, tail logs, and push files across every box
-- [codex-auth-broker](https://github.com/safzanpirani/codex-auth-broker) — codex app-server powered auth broker for pi, factory droid, and OpenAI Responses API clients
-- [papercuts](https://github.com/safzanpirani/papercuts) — a tiny CLI for agents to log the small frustrations they hit while working, so recurring friction becomes countable and fixable
-- [flux-kontext-diff-merge](https://github.com/safzanpirani/flux-kontext-diff-merge) — comfyui node that merges only the changed regions from ai image edits back into the original. preserves quality everywhere the model didn't actually need to touch
-- [pitop](https://github.com/safzanpirani/pitop) — `top(1)` for pi coding agent sessions; fork of cctop adapted for pi's session format
+- [fleet](https://github.com/safzanpirani/fleet) drives your whole machine fleet over SSH without quoting pain. one command to exec, spawn background jobs, tail logs, and push files across every box
+- [codex-auth-broker](https://github.com/safzanpirani/codex-auth-broker) brokers codex app-server auth for pi, factory droid, and OpenAI Responses API clients
+- [papercuts](https://github.com/safzanpirani/papercuts) lets agents log the small frustrations they hit while working. recurring friction becomes countable and fixable
+- [flux-kontext-diff-merge](https://github.com/safzanpirani/flux-kontext-diff-merge) is a comfyui node that merges only the changed regions from ai image edits back into the original. it preserves quality everywhere the model didn't need to touch
+- [pitop](https://github.com/safzanpirani/pitop) gives you `top(1)` for pi coding agent sessions, forked from cctop and adapted to pi's session format
 
 ## writing
-[safzan.dev/notes](https://safzan.dev/notes) — recent: [ai stands for artificial illiteracy](https://safzan.dev/notes/artificial-illiteracy)
+[safzan.dev/notes](https://safzan.dev/notes). most recent: [ai stands for artificial illiteracy](https://safzan.dev/notes/artificial-illiteracy)
 
 ## elsewhere
 - [portfolio](https://safzan.dev)
